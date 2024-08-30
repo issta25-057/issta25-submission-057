@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-Docker
+Docker, amd64 architecture
 
 ## Instructions to run
 
